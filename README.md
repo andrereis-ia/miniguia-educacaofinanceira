@@ -163,8 +163,49 @@ Além disso, é importante notar que, para outros tipos de produtos financeiros,
 
 Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
 
-Resumos estruturados do assunto;
+Resumos estruturados do assunto
+
+O Gemini disse
+Este é o seu Miniguia de Estudo Consolidado sobre Finanças Pessoais e Tecnologia. Ele reúne as melhores práticas de poupança, a estrutura de uma reserva de segurança e o papel da Inteligência Artificial no gerenciamento do seu patrimônio.
+
+1. Resumo Estruturado: O Caminho da Saúde Financeira
+1.1 Hábitos Essenciais para Poupar
+Para sair da inércia, a economia de dinheiro deve deixar de ser um esforço esporádico e se tornar um sistema:
+
+Clareza e Motivação: Defina metas específicas com nomes e estímulos visuais.
+
+Apoio Social: Poupar em conjunto com amigos ou família fortalece o compromisso.
+
+Progressão Gradual: Comece com valores pequenos (R$ 5 ou R$ 10) e use submetas para celebrar vitórias intermediárias.
+
+Automação: Programe transferências automáticas para que o ato de poupar não dependa da sua memória ou vontade.
+
+1.2 A Reserva de Emergência
+É o seu "colchão" de segurança. Antes de investir em projetos de longo prazo, você deve:
+
+Ponto de Partida: Juntar o equivalente a um mês de renda familiar.
+
+Meta de Segurança: Expandir gradualmente para cobrir três meses do seu salário/custo de vida.
+
+Função: Cobrir imprevistos (saúde, desemprego, reparos) sem gerar dívidas.
+
+1.3 IA e Robo Advisors nos Investimentos
+A tecnologia democratizou o acesso a estratégias complexas através de:
+
+Robo Advisors: Algoritmos que montam e gerenciam carteiras baseadas no seu perfil (Conservador, Moderado ou Arrojado).
+
+Vantagens: Rebalanceamento automático de ativos, reinvestimento de dividendos e eliminação do viés emocional nas decisões.
+
+Segurança e Ética: É vital verificar se as plataformas são autorizadas pelo Banco Central ou pela CVM para evitar fraudes.
 
 Um glossário com os principais conceitos aprendidos;
 
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+Prompts Reutilizáveis para Revisão e Aprofundamento
+
+Para Planejamento: "Atue como um educador financeiro. Com base na regra de começar com valores pequenos, ajude-me a criar um plano de 12 semanas para economizar meus primeiros R$ 500,00 começando com apenas R$ 10,00 na primeira semana."
+
+Para Explicação de Termos: "Explique de forma simples e com uma analogia do cotidiano o que é o 'Rebalanceamento Automático' realizado por um Robo Advisor."
+
+Para Segurança: "Quais são os sinais de alerta (red flags) que eu devo procurar ao analisar uma nova plataforma de investimentos para garantir que não é um golpe?"
+
+Para Simulação de Perfil: "Faça-me 5 perguntas para me ajudar a entender se meu perfil de investidor tende a ser mais conservador ou arrojado."
