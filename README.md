@@ -1,3 +1,5 @@
+EM PRODUÇÃO...
+
 Assunto: Educação Financeira - Guia Prático para Aprender a Guardar Dinheiro
 
 Objetivo: O objetivo central é democratizar o conhecimento financeiro, traduzindo conceitos complexos para aqueles que possuem pouca ou nenhuma experiência na área. Através de uma abordagem didática, buscamos transformar a educação econômica em algo acessível e compreensível para o usuário comum.
