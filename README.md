@@ -16,8 +16,6 @@ https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/desenrola
 
 https://borainvestir.b3.com.br/objetivos-financeiros/organizar-as-contas/5-habitos-que-vao-te-fazer-guardar-dinheiro-para-investir/
 
-Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
-
 1 - Quais são os 5 hábitos essenciais para começar a poupar?
 
 Para começar a poupar dinheiro e vencer a inércia, as fontes destacam cinco hábitos fundamentais que ajudam a transformar o comportamento de poupar em uma meta tangível e sustentável:
@@ -43,6 +41,7 @@ Para definir o valor ideal para a sua reserva de emergência, as fontes sugerem 
 2.2	Meta de segurança recomendada: Outra orientação é planejar-se para formar, gradualmente, um montante que corresponda a, pelo menos, três meses do seu salário.
 
 A função dessa reserva é oferecer tranquilidade e um "fôlego" financeiro para resolver situações inesperadas, como doenças, perda de emprego, quebra de veículo ou reparos urgentes na casa. Ter esse dinheiro guardado evita que problemas imprevistos se transformem em crises financeiras mais graves.
+
 As fontes enfatizam que a criação desta reserva deve ser sua prioridade absoluta. Somente após a reserva de emergência estar devidamente formada é que você deve continuar os esforços de poupança com foco em outros objetivos, como a realização de sonhos, projetos de longo prazo ou a formação de patrimônio.
 
 3 - Como as ias podem me ajudar a conseguir a aprender sobre educação financeira e me ajudar a guardar dinheiro?
