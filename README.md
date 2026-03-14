@@ -7,10 +7,15 @@ Objetivo: O objetivo central é democratizar o conhecimento financeiro, traduzin
 Curadoria de Fontes / Links utilizados:
 
 https://content.btgpactual.com/blog/investimentos/robo-advisor-o-que-e-como-funciona-vantagens-e-desvantagens
+
 https://exame.com/invest/guia/carteira-automatizada-como-os-robo-advisors-cuidam-dos-seus-investimentos
+
 https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
+
 https://www.caixa.gov.br/Downloads/educacao-financeira-cartilhas/CARTILHA1_EDUCACAO_FINANCEIRA.pdf
+
 https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/desenrola-brasil/educacao-financeira/guia-guardar-dinheiro_atualizacao-ago2023.pdf
+
 https://borainvestir.b3.com.br/objetivos-financeiros/organizar-as-contas/5-habitos-que-vao-te-fazer-guardar-dinheiro-para-investir/
 
 Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
